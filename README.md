@@ -17,3 +17,6 @@ A importância maior foi dada as pessoas ao invés das ferramentas, pois são as
 O que poderia ter sido feito diferente?
 
 O que poderia ter sido feito de diferente seria antes de implantar o Scrum, fazer um trabalho comportamental de interação entre os funcionários, tentando quebrar essa distancia entre os membros de uma mesma equipe. Entendo que o trabalho fica muito mais fácil quando toda a equipe está alinhada quanto a cultura de ajudar os membros da equipe, porque em algum momento vai ser necessário essa interação e a ajuda mutua entre as partes. 
+
+
+Referência: https://www.ieepeducacao.com.br/yahoo-scrum/
